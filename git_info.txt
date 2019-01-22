@@ -1,0 +1,31 @@
+Git : verson control system (vcs) for tracking changtes in computer files.
+
+
+concepts of git
+- keep track of code history
+- takes snapshots of files
+- decide when to take snapshot
+- 	
+
+Basic Commands:
+git init 	// ini local get repository
+git add <file> 	// add file(s) to index
+git status	// chk status of working tree
+git commit	// commit changes in index
+working with repos:
+git push	// Psh to remote repo
+git pull	// Pull latest from remote repo
+git clone	// will copy reposittory to pc directory/current folder
+
+insall git:
+apt-get install git
+or 
+apt install git
+
+
+
+
+
+
+
+
